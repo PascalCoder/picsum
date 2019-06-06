@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picsum</string>
+    <string name="format_tag"><b>Format: </b></string>
+    <string name="width_tag"><b>Width: </b></string>
+    <string name="height_tag"><b>Height: </b></string>
+    <string name="file_name_tag"><b>File name: </b></string>
+    <string name="author_tag"><b>Author: </b></string>
+    <string name="author_url_tag"><b>Author url: </b></string>
+    <string name="post_url_tag"><b>Post url: </b></string>
+    <string name="picsum_details">Picsum Details</string>
+</resources>
